@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XO",
+    "OX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:bone_meal"
+    },
+    "O": {
+      "item": "minecraft:quartz"
+    }
+  },
+   "result": {
+    "item": "minecraft:calcite",
+    "count": 1
+  }
+}

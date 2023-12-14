@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XO",
+    "OX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:red_dye"
+    },
+    "O": {
+      "item": "minecraft:red_dye"
+    }
+  },
+   "result": {
+    "item": "minecraft:nether_wart_block",
+    "count": 1
+  }
+}

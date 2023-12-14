@@ -1,0 +1,8 @@
+{
+    	"values": [
+		"scu:spawn",
+		"scu:destroy",
+		"scu:gravitate",
+		"scu:initialize"
+	]
+}

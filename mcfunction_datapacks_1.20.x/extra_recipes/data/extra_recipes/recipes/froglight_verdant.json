@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sea_lantern"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:lime_dye"
+    }
+  ],
+   "result": {
+    "item": "minecraft:verdant_froglight",
+    "count": 1
+  }
+}

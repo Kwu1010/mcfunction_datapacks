@@ -1,0 +1,31 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "O@O",
+    "+-+"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_block"
+    },
+    "X": {
+      "item": "minecraft:dropper"
+    },
+    "O": {
+      "item": "minecraft:stonecutter"
+    },
+    "@": {
+      "item": "minecraft:scaffolding"
+    },
+    "+": {
+      "item": "minecraft:copper_block"
+    },
+    "-": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

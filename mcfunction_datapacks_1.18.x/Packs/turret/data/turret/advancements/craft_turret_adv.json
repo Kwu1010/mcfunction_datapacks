@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "turret": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "turret:turret"
+            }
+        }
+    },
+    "rewards": {
+        "function": "turret:turret_crafting"
+    }
+}

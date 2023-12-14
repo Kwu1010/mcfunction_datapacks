@@ -1,0 +1,3 @@
+execute as @e[type=armor_stand,tag=scu] at @s unless block ~ ~ ~ minecraft:tinted_glass run kill @e[type=item,nbt={Item:{id:"minecraft:tinted_glass"}},distance=..2]
+execute as @e[type=armor_stand,tag=scu] at @s unless block ~ ~ ~ minecraft:tinted_glass run summon item ~ ~ ~ {Item:{id:"minecraft:endermite_spawn_egg",Count:1b,tag:{CustomModelData:3,display:{Name:"\"SCU\""}}}}
+execute as @e[type=armor_stand,tag=scu] at @s unless block ~ ~ ~ minecraft:tinted_glass run kill @s

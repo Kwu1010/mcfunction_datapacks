@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XO",
+    "OX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:mud"
+    },
+    "O": {
+      "item": "minecraft:gravel"
+    }
+  },
+   "result": {
+    "item": "minecraft:soul_soil",
+    "count": 2
+  }
+}

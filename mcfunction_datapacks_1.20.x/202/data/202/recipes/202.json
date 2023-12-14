@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "X##",
+    "OOB",
+    "C##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "X": {
+      "item": "minecraft:comparator"
+    },
+    "O": {
+      "item": "minecraft:copper_ingot"
+    },
+    "C": {
+      "item": "minecraft:lever"
+    },
+    "B": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:barrier"
+  }
+}

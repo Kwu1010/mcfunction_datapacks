@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "diamondjackhammer": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "jackhammer:diamond_jackhammer"
+            }
+        }
+    },
+    "rewards": {
+        "function": "jackhammer:diamond_jackhammer_crafting"
+    }
+}

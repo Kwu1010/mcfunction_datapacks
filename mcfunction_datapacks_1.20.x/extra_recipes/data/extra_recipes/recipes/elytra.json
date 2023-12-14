@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XIX",
+    "XOX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "O": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+   "result": {
+    "item": "minecraft:elytra",
+    "count": 1
+  }
+}

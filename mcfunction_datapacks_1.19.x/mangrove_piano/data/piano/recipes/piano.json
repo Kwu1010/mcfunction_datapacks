@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "XXX",
+    "O O"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:command_block"
+    },
+    "X": {
+      "item": "minecraft:quartz_slab"
+    },
+    "O": {
+      "item": "minecraft:chain_command_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

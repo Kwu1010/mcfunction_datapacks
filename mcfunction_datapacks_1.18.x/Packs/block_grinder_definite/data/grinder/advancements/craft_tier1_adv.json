@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "tier1grinder": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "grinder:tier1_grinder"
+            }
+        }
+    },
+    "rewards": {
+        "function": "grinder:tier1_crafting"
+    }
+}

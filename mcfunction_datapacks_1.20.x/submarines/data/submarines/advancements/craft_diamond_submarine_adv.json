@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "submarine": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "submarines:diamond_submarine"
+            }
+        }
+    },
+    "rewards": {
+        "function": "submarines:craft_submarine"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "A",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_helmet"
+    },
+	"A": {
+      "item": "minecraft:petrified_oak_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:barrier"
+  }
+}

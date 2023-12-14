@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "egg": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "egg:wither_skeleton_egg"
+            }
+        }
+    },
+    "rewards": {
+        "function": "egg:wither_skeleton_egg_crafting"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#O#",
+    "OXO",
+    "#O#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_block"
+    },
+    "X": {
+      "item": "minecraft:lodestone"
+    },
+    "O": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

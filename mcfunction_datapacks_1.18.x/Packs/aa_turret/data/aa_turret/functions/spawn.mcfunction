@@ -1,0 +1,3 @@
+execute as @e[type=silverfish,name="Spawn AA-Turret"] at @s run setblock ~ ~ ~ daylight_detector
+execute as @e[type=silverfish,name="Spawn AA-Turret"] at @s run summon armor_stand ~ ~ ~ {CustomName:"\"aaturret\"",Tags:["aaturret","control"],Invisible:1,NoBasePlate:1,Small:1,DisabledSlots:4144959,ShowArms:0,Pose:{Head:[0f,0f,0f],Body:[0f,0f,0f],LeftArm:[0f,0f,0f],RightArm:[0f,0f,0f],LeftLeg:[0f,0f,0f],RightLeg:[0f,0f,0f]},ArmorItems:[{},{},{},{id:"minecraft:quartz_slab",Count:1b}],HandItems:[{},{}]}
+kill @e[type=silverfish,name="Spawn AA-Turret"]

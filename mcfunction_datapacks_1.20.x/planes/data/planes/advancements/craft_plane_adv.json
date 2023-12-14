@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "propeller_planes": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "planes:plane"
+            }
+        }
+    },
+    "rewards": {
+        "function": "planes:craft_plane"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "+O+",
+    "#@#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:barrier"
+    },
+    "X": {
+      "item": "minecraft:barrier"
+    },
+    "O": {
+      "item": "minecraft:barrier"
+    },
+    "+": {
+      "item": "minecraft:barrier"
+    },
+    "@": {
+      "item": "minecraft:chain_command_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

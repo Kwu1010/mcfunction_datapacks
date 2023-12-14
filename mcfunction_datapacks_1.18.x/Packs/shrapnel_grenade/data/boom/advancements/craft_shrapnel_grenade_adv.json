@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "shrapnelgrenade": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "boom:shrapnel_grenade"
+            }
+        }
+    },
+    "rewards": {
+        "function": "boom:shrapnel_grenade_crafting"
+    }
+}

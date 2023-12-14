@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "O@O",
+    " + "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_block"
+    },
+    "X": {
+      "item": "minecraft:dropper"
+    },
+    "O": {
+      "item": "minecraft:stick"
+    },
+    "@": {
+      "item": "minecraft:netherite_block"
+    },
+    "+": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

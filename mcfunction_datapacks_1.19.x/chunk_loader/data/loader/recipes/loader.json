@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "#O#",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "X": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "O": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

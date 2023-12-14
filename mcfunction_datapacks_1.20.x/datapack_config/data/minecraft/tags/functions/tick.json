@@ -1,0 +1,9 @@
+{
+    "values": [
+		"config:config_auth",
+		"config:missile_tracking",
+		"config:propeller_planes_era",
+		"config:mute_notifications",
+		"config:weapon_tag"
+	]
+}

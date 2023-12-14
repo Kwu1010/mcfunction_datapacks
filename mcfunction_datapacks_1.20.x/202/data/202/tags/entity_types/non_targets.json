@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:arrows",
+	"minecraft:item_frame",
+    "minecraft:item",
+    "minecraft:painting",
+    "minecraft:experience_orb",
+    "minecraft:area_effect_cloud"
+  ]
+}

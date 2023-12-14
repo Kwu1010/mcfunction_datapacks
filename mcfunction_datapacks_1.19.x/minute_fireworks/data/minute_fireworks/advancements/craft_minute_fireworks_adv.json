@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "loader": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minute_fireworks:minute_fireworks"
+            }
+        }
+    },
+    "rewards": {
+        "function": "minute_fireworks:minute_fireworks_crafting"
+    }
+}

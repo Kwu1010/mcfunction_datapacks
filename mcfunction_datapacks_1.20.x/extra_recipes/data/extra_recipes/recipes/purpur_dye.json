@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XO",
+    "OX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:cobblestone"
+    },
+    "O": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+   "result": {
+    "item": "minecraft:purpur_block",
+    "count": 2
+  }
+}

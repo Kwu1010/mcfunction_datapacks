@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "XOX",
+    "X@X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tinted_glass"
+    },
+    "X": {
+      "item": "minecraft:obsidian"
+    },
+    "O": {
+      "item": "minecraft:lodestone"
+    },
+    "@": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

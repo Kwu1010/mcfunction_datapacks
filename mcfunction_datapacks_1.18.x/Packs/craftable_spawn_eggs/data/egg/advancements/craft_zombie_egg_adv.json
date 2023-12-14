@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "egg": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "egg:zombie_egg"
+            }
+        }
+    },
+    "rewards": {
+        "function": "egg:zombie_egg_crafting"
+    }
+}

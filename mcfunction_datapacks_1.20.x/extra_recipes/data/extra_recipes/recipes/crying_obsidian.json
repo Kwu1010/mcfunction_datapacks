@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+   "result": {
+    "item": "minecraft:crying_obsidian",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "values": [
+		"submarines:init",
+		"submarines:tick",
+		"submarines:globals",
+		"submarines:spawn",
+		"submarines:despawn_conditions",
+		"submarines:despawner",
+		"submarines:model",
+		"submarines:speed_controls",
+		"submarines:display_throttle",
+		"submarines:world_wrap",
+		"submarines:crafting_recipe",
+		"submarines:operator_manual",
+		"submarines:torpedo_detonate",
+		"submarines:torpedo_functionality",
+		"submarines:torpedo_spawn"
+	]
+}

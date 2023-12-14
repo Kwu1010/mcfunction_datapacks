@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "XOX",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oxidized_copper"
+    },
+    "X": {
+      "item": "minecraft:iron_bars"
+    },
+    "O": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

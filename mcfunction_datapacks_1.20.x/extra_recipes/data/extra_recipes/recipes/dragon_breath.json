@@ -1,0 +1,32 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "AB ",
+    " CD",
+	" EF"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "minecraft:magenta_dye"
+    },
+    "C": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "D": {
+      "item": "minecraft:milk_bucket"
+    },
+    "E": {
+      "item": "minecraft:glass_bottle"
+    },
+    "F": {
+      "item": "minecraft:quartz"
+    }
+  },
+   "result": {
+    "item": "minecraft:dragon_breath",
+    "count": 2
+  }
+}

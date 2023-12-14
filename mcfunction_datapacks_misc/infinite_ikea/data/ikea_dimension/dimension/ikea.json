@@ -1,0 +1,21 @@
+{
+  "type": "ikea_dimension:ikea",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "ikea_dimension:ikea",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 34
+        },
+        {
+          "block": "minecraft:gray_concrete",
+          "height": 1
+        }
+      ]
+    }
+  }
+}

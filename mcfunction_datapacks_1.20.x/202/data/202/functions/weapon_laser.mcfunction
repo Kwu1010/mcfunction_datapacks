@@ -1,0 +1,10 @@
+execute as @a[tag=hold_202] at @s positioned ^1 ^ ^2 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force
+execute as @a[tag=hold_202] at @s positioned ^-1 ^ ^2 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force
+execute as @a[tag=hold_202] at @s positioned ^2 ^ ^4 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force
+execute as @a[tag=hold_202] at @s positioned ^-2 ^ ^4 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force
+execute as @a[tag=hold_202] at @s positioned ^3 ^ ^6 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force
+execute as @a[tag=hold_202] at @s positioned ^-3 ^ ^6 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force
+execute as @a[tag=hold_202] at @s positioned ^4 ^ ^8 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force
+execute as @a[tag=hold_202] at @s positioned ^-4 ^ ^8 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force
+execute as @a[tag=hold_202] at @s positioned ^5 ^ ^10 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force
+execute as @a[tag=hold_202] at @s positioned ^-5 ^ ^10 run particle minecraft:dust 1 0 0 1 ~ ~1 ~ 0 0 0 0 1 force

@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=turret,tag=arms] at @s run function turret:set_target

@@ -1,0 +1,54 @@
+Item Utilities:
+	Zombies drop flint
+	Stray drops ice
+	Husk drops glowstone
+	Drowned drops clay
+	Piglin+Zomb drop quartz
+	Drowned drops raw copper, replaces copper
+	Zombies drops raw iron, replaces iron
+	husks drops raw iron, replaces iron
+	zombie villagers drops raw iron, replaces iron
+	Piglin+Zomb drops raw gold, replaces gold
+	Craftable chainmail
+	Redstone products with iron replaced with copper
+
+Advanced Tools:
+	3x3 pickaxe "hammer" ([item, star, item], pickaxe, stick)
+	3x3 shovel  "excavator" ([item, star, item], pickaxe, stick)
+
+Spawner Pickup:
+	Netherstar + Spawner = Spawner Item
+
+Clearlag:
+	Clearlag every 10 minutes
+
+Portal:
+	Speed + Jump Gel
+	Turrets
+
+Generators:
+	cobblestone resource generator (varying level of cobble)
+	 - diamond (1024 cobble)
+	 - emerald (512 cobble)
+	 - raw_gold (256 cobble)
+	 - redstone (256 cobble)
+	 - lapis    (256 cobble)
+	 - raw_iron (128 cobble)
+	 - raw_copper (64 cobblestone)
+
+	netherrack resource generator (varying)
+	 - netherite (1024 netherrack)
+	 - raw_gold (512 netherrack)
+	 - quartz (128 netherrack)
+
+Chunk Loaders:
+	Chunk loaders that don't break :P
+
+Blackhole Suction Unit
+	Blackhole that sucks items
+
+Packager (2x2 & 3x3 -> block)
+Unpackager (block -> 2x2 or 3x3)
+
+Assembler (auto-crafter)
+Disassembler (auto-uncrafter)

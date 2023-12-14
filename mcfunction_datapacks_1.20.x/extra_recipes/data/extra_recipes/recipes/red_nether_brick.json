@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XO",
+    "OX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:nether_brick"
+    },
+    "O": {
+      "item": "minecraft:red_dye"
+    }
+  },
+   "result": {
+    "item": "minecraft:red_nether_bricks",
+    "count": 1
+  }
+}

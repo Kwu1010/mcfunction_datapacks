@@ -1,0 +1,14 @@
+{
+    "values": [
+		"piano:spawn_egg",
+		"piano:spawn_key",
+		"piano:clear_null",
+		"piano:show_keys",
+		"piano:cycle_instrument",
+		"piano:despawn",
+		"piano:play_bit",
+		"piano:play_chime",
+		"piano:play_harp",
+		"piano:play_iron_xylophone"
+	]
+}

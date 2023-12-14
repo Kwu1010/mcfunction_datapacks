@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "loader": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "loader:loader"
+            }
+        }
+    },
+    "rewards": {
+        "function": "loader:loader_crafting"
+    }
+}

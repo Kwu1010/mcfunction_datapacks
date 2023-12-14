@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "loader": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "armored_elytras:armored_elytras_netherite"
+            }
+        }
+    },
+    "rewards": {
+        "function": "armored_elytras:armored_elytras_netherite_crafting"
+    }
+}

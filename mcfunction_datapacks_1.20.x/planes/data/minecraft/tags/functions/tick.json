@@ -1,0 +1,19 @@
+{
+    "values": [
+		"planes:tick",
+		"planes:spawn",
+		"planes:model",
+		"planes:speed_controls",
+		"planes:despawner",
+		"planes:detonator",
+		"planes:despawn_conditions",
+		"planes:damage_registration",
+		"planes:display_throttle",
+		"planes:engine_sound",
+		"planes:force_despawn",
+		"planes:world_wrap",
+		"planes:change_exterior",
+		"planes:operator_manual",
+		"planes:crafting_recipe"
+	]
+}

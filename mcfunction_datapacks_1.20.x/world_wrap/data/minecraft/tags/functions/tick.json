@@ -1,0 +1,8 @@
+{
+    "values": [
+		"world_wrap:world_wrap",
+		"world_wrap:delay_clock",
+		"world_wrap:entity_list",
+		"world_wrap:entity_init"
+	]
+}

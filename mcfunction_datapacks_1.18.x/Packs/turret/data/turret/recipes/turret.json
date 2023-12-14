@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "OOO"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:redstone_block"
+    },
+    "O": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

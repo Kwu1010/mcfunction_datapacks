@@ -1,0 +1,2 @@
+scoreboard objectives add diamondjackhammer minecraft.used:minecraft.diamond_pickaxe
+scoreboard objectives add netheritejackhammer minecraft.used:minecraft.netherite_pickaxe

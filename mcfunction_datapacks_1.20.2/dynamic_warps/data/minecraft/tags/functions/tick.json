@@ -1,0 +1,7 @@
+{
+    "values": [
+		"dynamic_warps:warp_set",
+		"dynamic_warps:warp_destroy",
+		"dynamic_warps:warp_tick"
+	]
+}

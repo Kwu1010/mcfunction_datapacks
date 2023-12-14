@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "piano": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "piano:piano"
+            }
+        }
+    },
+    "rewards": {
+        "function": "piano:craft_piano"
+    }
+}

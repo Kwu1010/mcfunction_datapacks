@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+   "result": {
+    "item": "minecraft:end_stone",
+    "count": 1
+  }
+}

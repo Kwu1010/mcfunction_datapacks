@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "netheritejackhammer": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "jackhammer:netherite_jackhammer"
+            }
+        }
+    },
+    "rewards": {
+        "function": "jackhammer:netherite_jackhammer_crafting"
+    }
+}

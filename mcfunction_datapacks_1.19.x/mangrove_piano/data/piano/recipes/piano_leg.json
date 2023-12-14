@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "# ",
+    "XO",
+    "X+"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:mangrove_slab"
+    },
+    "X": {
+      "item": "minecraft:stripped_mangrove_wood"
+    },
+    "O": {
+      "item": "minecraft:mangrove_trapdoor"
+    },
+    "+": {
+      "item": "minecraft:mangrove_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

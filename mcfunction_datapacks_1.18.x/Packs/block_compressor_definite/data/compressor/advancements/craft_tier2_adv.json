@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "tier2compressor": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "compressor:tier2_compressor"
+            }
+        }
+    },
+    "rewards": {
+        "function": "compressor:tier2_crafting"
+    }
+}

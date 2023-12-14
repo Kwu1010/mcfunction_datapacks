@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "+O+",
+    "#@#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "X": {
+      "item": "minecraft:redstone_block"
+    },
+    "O": {
+      "item": "minecraft:iron_block"
+    },
+    "+": {
+      "item": "minecraft:bone_block"
+    },
+    "@": {
+      "item": "minecraft:chain_command_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

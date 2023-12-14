@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "202": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "202:he_shell"
+            }
+        }
+    },
+    "rewards": {
+        "function": "202:craft_he_shell"
+    }
+}

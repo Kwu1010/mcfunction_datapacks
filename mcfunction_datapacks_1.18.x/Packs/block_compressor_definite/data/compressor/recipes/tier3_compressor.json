@@ -1,0 +1,31 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "O@O",
+    "+-+"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_block"
+    },
+    "X": {
+      "item": "minecraft:anvil"
+    },
+    "O": {
+      "item": "minecraft:piston"
+    },
+    "@": {
+      "item": "minecraft:silverfish_spawn_egg"
+    },
+    "+": {
+      "item": "minecraft:diamond_block"
+    },
+    "-": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

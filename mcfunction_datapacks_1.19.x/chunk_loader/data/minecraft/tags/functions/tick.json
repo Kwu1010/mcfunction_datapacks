@@ -1,0 +1,7 @@
+{
+    	"values": [
+		"loader:load",
+		"loader:spawn",
+		"loader:destroy"
+	]
+}

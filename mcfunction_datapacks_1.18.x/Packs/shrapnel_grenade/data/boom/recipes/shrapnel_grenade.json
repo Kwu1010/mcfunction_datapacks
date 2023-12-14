@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "#X#",
+    "#O#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:string"
+    },
+    "O": {
+      "item": "minecraft:firework_star"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

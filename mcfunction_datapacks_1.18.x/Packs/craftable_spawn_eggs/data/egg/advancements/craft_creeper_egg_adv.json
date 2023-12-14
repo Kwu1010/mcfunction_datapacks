@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "egg": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "egg:creeper_egg"
+            }
+        }
+    },
+    "rewards": {
+        "function": "egg:creeper_egg_crafting"
+    }
+}

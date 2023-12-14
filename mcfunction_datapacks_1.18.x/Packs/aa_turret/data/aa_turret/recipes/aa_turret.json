@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "XOX",
+    "@@@"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:quartz_slab"
+    },
+    "X": {
+      "item": "minecraft:dispenser"
+    },
+    "O": {
+      "item": "minecraft:piston"
+    },
+    "@": {
+      "item": "minecraft:daylight_detector"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

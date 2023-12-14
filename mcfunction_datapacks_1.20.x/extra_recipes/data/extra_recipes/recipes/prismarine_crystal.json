@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "CCC",
+    "ABA",
+	"CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_nugget"
+    },
+    "B": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+   "result": {
+    "item": "minecraft:prismarine_crystals",
+    "count": 32
+  }
+}

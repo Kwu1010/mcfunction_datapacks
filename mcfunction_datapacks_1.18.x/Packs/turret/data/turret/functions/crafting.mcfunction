@@ -1,0 +1,5 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:redstone_block"}}] at @s if entity @e[type=item,nbt={Item:{id:"minecraft:iron_ingot",Count:5b}},distance=..1] if entity @e[type=item,nbt={Item:{id:"minecraft:stick",Count:3b}},distance=..1] run tag @s add craft
+execute as @e[type=item,nbt={Item:{id:"minecraft:redstone_block"}},tag=craft] at @s run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:endermite_spawn_egg",Count:1b,tag:{display:{Name:"\"Spawn Turret\""}}}}
+execute as @e[type=item,nbt={Item:{id:"minecraft:redstone_block"}},tag=craft] at @s run kill @e[distance=..1,type=item,nbt={Item:{id:"minecraft:iron_ingot"}},limit=5]
+execute as @e[type=item,nbt={Item:{id:"minecraft:redstone_block"}},tag=craft] at @s run kill @e[distance=..1,type=item,nbt={Item:{id:"minecraft:stick"}},limit=3]
+execute as @e[type=item,nbt={Item:{id:"minecraft:redstone_block"}},tag=craft] at @s run kill @s

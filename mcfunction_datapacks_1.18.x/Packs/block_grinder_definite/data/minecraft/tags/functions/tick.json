@@ -1,0 +1,8 @@
+{
+    "values": [
+		"grinder:spawn",
+		"grinder:destroy",
+		"grinder:generate",
+		"grinder:initialize"
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "fire_lance": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "fire_lance:fire_lance_bullet"
+            }
+        }
+    },
+    "rewards": {
+        "function": "fire_lance:craft_fire_lance_bullet"
+    }
+}

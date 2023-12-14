@@ -1,0 +1,12 @@
+scoreboard objectives add recipehelp1 trigger
+scoreboard objectives add recipehelp2 trigger
+scoreboard objectives add recipehelp3 trigger
+scoreboard objectives add recipehelp4 trigger
+scoreboard objectives add recipehelp5 trigger
+scoreboard objectives add recipehelp6 trigger
+scoreboard players enable @a recipehelp1
+scoreboard players enable @a recipehelp2
+scoreboard players enable @a recipehelp3
+scoreboard players enable @a recipehelp4
+scoreboard players enable @a recipehelp5
+scoreboard players enable @a recipehelp6

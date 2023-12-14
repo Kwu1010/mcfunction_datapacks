@@ -1,0 +1,13 @@
+{
+    "values": [
+		"fire_lance:init",
+		"fire_lance:bullet_functionality",
+		"fire_lance:weapon_fire",
+		"fire_lance:weapon_reload",
+		"fire_lance:weapon_replenish",
+		"fire_lance:weapon_status",
+		"fire_lance:weapon_limit",
+		"fire_lance:crafting_recipe",
+		"fire_lance:call_datapack_items"
+	]
+}

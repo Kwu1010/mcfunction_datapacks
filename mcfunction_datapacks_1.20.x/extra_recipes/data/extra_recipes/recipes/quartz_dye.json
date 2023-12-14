@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XO",
+    "OX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:cobblestone"
+    },
+    "O": {
+      "item": "minecraft:white_dye"
+    }
+  },
+   "result": {
+    "item": "minecraft:quartz_block",
+    "count": 2
+  }
+}

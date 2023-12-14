@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XO",
+    "OX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dirt"
+    },
+    "O": {
+      "item": "minecraft:red_dye"
+    }
+  },
+   "result": {
+    "item": "minecraft:netherrack",
+    "count": 2
+  }
+}

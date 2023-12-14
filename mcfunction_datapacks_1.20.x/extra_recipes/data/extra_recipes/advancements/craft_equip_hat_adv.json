@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "extra_recipes": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "extra_recipes:equip_hat"
+            }
+        }
+    },
+    "rewards": {
+        "function": "extra_recipes:craft_equip_hat"
+    }
+}

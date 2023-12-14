@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "egg": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "egg:spider_egg"
+            }
+        }
+    },
+    "rewards": {
+        "function": "egg:spider_egg_crafting"
+    }
+}

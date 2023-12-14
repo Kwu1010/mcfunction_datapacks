@@ -1,0 +1,8 @@
+{
+    "values": [
+		"compressor:spawn",
+		"compressor:destroy",
+		"compressor:generate",
+		"compressor:initialize"
+	]
+}

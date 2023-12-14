@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+   "result": {
+    "item": "minecraft:suspicious_sand",
+    "count": 1
+  }
+}

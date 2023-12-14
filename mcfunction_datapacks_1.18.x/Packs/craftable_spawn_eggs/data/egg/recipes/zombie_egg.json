@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "+O+",
+    "#@#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "X": {
+      "item": "minecraft:redstone_block"
+    },
+    "O": {
+      "item": "minecraft:iron_ingot"
+    },
+    "+": {
+      "item": "minecraft:bone"
+    },
+    "@": {
+      "item": "minecraft:chain_command_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

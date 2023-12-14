@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "AOA",
+    "OBO",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:polished_diorite"
+    },
+    "O": {
+      "item": "minecraft:copper_ingot"
+    },
+    "A": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "minecraft:iron_horse_armor"
+    }
+  },
+  "result": {
+    "item": "minecraft:barrier"
+  }
+}

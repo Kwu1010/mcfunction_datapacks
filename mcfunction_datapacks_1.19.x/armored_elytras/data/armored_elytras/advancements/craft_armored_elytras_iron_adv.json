@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "loader": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "armored_elytras:armored_elytras_iron"
+            }
+        }
+    },
+    "rewards": {
+        "function": "armored_elytras:armored_elytras_iron_crafting"
+    }
+}

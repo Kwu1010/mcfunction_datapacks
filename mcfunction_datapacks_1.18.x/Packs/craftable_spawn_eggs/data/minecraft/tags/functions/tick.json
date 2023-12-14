@@ -1,0 +1,6 @@
+{
+    	"values": [
+		"egg:initialization",
+		"egg:slime_spawner"
+	]
+}

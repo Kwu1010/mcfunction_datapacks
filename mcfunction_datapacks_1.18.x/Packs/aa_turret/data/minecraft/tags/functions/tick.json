@@ -1,0 +1,10 @@
+{
+    	"values": [
+		"aa_turret:missiles",
+		"aa_turret:destroy",
+		"aa_turret:initialization",
+		"aa_turret:tracking",
+		"aa_turret:spawn",
+		"aa_turret:target_list"
+	]
+}

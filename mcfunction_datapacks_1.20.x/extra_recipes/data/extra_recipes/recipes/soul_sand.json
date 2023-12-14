@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XO",
+    "OX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:mud"
+    },
+    "O": {
+      "item": "minecraft:sand"
+    }
+  },
+   "result": {
+    "item": "minecraft:soul_sand",
+    "count": 2
+  }
+}

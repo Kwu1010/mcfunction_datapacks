@@ -1,0 +1,1 @@
+give @s minecraft:command_block{CustomModelData:10,display:{Name:"\"Shopping Cart\""}}

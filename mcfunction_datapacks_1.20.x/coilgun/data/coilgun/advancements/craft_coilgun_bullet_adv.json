@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "coilgun": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "coilgun:coilgun_bullet"
+            }
+        }
+    },
+    "rewards": {
+        "function": "coilgun:craft_coilgun_bullet"
+    }
+}

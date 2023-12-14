@@ -1,0 +1,2 @@
+execute as @e[type=armor_stand,tag=scu] at @s as @e[type=item,distance=..15] at @s run tp @s ^ ^ ^0.05 facing entity @e[type=armor_stand,tag=scu,limit=1,sort=nearest]
+execute as @e[type=armor_stand,tag=scu] at @s run particle portal ~ ~ ~ 0 0 0 1 10 force

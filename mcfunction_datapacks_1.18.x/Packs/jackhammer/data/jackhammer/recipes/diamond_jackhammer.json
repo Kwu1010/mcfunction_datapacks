@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "O@O",
+    " + "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_block"
+    },
+    "X": {
+      "item": "minecraft:dropper"
+    },
+    "O": {
+      "item": "minecraft:stick"
+    },
+    "@": {
+      "item": "minecraft:diamond_block"
+    },
+    "+": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

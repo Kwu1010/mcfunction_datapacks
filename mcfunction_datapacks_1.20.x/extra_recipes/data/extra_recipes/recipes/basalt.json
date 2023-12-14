@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XO",
+    "OX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:cobblestone"
+    },
+    "O": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+   "result": {
+    "item": "minecraft:basalt",
+    "count": 1
+  }
+}

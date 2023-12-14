@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "+O+",
+    "#@#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tnt"
+    },
+    "X": {
+      "item": "minecraft:redstone_block"
+    },
+    "O": {
+      "item": "minecraft:creeper_head"
+    },
+    "+": {
+      "item": "minecraft:firework_star"
+    },
+    "@": {
+      "item": "minecraft:chain_command_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

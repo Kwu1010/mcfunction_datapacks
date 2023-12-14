@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "+O+",
+    "#@#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blackstone"
+    },
+    "X": {
+      "item": "minecraft:white_wool"
+    },
+    "O": {
+      "item": "minecraft:redstone_block"
+    },
+    "+": {
+      "item": "minecraft:spider_eye"
+    },
+    "@": {
+      "item": "minecraft:chain_command_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

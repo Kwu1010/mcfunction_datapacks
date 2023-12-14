@@ -1,0 +1,8 @@
+{
+    "values": [
+		"kaboom:init",
+		"kaboom:spawn_egg",
+		"kaboom:prime_sequence",
+		"kaboom:detonation_sequence"
+	]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ADA",
+    "FCB",
+    " EB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:copper_ingot"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "C": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "D": {
+      "item": "minecraft:hopper"
+    },
+    "E": {
+      "item": "minecraft:lever"
+    },
+    "F": {
+      "item": "minecraft:lightning_rod"
+    }
+  },
+  "result": {
+    "item": "minecraft:barrier"
+  }
+}

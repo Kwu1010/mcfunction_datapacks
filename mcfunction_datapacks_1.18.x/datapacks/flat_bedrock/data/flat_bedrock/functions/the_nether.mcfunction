@@ -1,0 +1,2 @@
+execute as @a[nbt={Dimension:"minecraft:the_nether"}] at @s run fill ~-25 1 ~-25 ~25 4 ~25 minecraft:netherrack replace minecraft:bedrock
+execute as @a[nbt={Dimension:"minecraft:the_nether"}] at @s run fill ~-25 123 ~-25 ~25 126 ~25 minecraft:netherrack replace minecraft:bedrock

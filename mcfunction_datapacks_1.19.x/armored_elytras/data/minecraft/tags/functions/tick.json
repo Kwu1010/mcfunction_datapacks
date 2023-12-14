@@ -1,0 +1,10 @@
+{
+    "values": [
+		"armored_elytras:recipe_armored_elytras",
+		"armored_elytras:armored_elytras_diamond_crafting",
+		"armored_elytras:armored_elytras_gold_crafting",
+		"armored_elytras:armored_elytras_iron_crafting",
+		"armored_elytras:armored_elytras_netherite_crafting",
+		"armored_elytras:armored_elytras_netherite_effect"
+	]
+}

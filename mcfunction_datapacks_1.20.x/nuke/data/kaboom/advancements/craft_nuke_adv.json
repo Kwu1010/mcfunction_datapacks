@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "kaboom": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "kaboom:nuke"
+            }
+        }
+    },
+    "rewards": {
+        "function": "kaboom:craft_nuke"
+    }
+}

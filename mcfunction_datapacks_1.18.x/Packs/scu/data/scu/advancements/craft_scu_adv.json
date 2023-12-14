@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "scu": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "scu:scu"
+            }
+        }
+    },
+    "rewards": {
+        "function": "scu:scu_crafting"
+    }
+}

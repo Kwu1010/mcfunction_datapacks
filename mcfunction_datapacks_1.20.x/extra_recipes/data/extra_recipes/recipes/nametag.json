@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " O",
+    "X "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "O": {
+      "item": "minecraft:string"
+    }
+  },
+   "result": {
+    "item": "minecraft:name_tag",
+    "count": 1
+  }
+}

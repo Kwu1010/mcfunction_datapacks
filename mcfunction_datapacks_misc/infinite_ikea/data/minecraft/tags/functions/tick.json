@@ -1,0 +1,19 @@
+{
+    "values": [
+		"ikea:admin_commands",
+		"ikea:armor",
+		"ikea:day_night_cycle",
+		"ikea:employee",
+		"ikea:generate_interior",
+		"ikea:init",
+		"ikea:playerteam",
+		"ikea:rebirth",
+		"ikea:rng",
+		"ikea:room_blank",
+		"ikea:room_exit",
+		"ikea:room_pillar",
+		"ikea:room_wall",
+		"ikea:spawn_interior",
+		"ikea:start"
+	]
+}

@@ -1,0 +1,15 @@
+{
+    	"values": [
+		"turret:bullets",
+		"turret:crafting",
+		"turret:destroy",
+		"turret:fov",
+		"turret:initialization",
+		"turret:laser",
+		"turret:set_target",
+		"turret:spawn",
+		"turret:target_list",
+		"turret:deathmessage",
+		"turret:defective"
+	]
+}

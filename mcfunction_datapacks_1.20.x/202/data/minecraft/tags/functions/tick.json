@@ -1,0 +1,17 @@
+{
+    "values": [
+		"202:init",
+		"202:missile_targets",
+		"202:missile_tracking",
+		"202:missile_detonation",
+		"202:weapon_fire",
+		"202:weapon_reload",
+		"202:weapon_replenish",
+		"202:weapon_status",
+		"202:weapon_limit",
+		"202:flares",
+		"202:flare_gun",
+		"202:crafting_recipe",
+		"202:call_datapack_items"
+	]
+}

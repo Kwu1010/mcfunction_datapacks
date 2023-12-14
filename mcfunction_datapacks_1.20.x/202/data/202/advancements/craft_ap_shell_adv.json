@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "202": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "202:ap_shell"
+            }
+        }
+    },
+    "rewards": {
+        "function": "202:craft_ap_shell"
+    }
+}

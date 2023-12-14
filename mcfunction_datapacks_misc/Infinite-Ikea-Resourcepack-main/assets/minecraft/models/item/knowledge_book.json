@@ -1,0 +1,23 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/knowledge_book"
+	},
+	"overrides":[
+		{"predicate":{"custom_model_data":1},"model":"item/knowledge_book/1"},
+		{"predicate":{"custom_model_data":2},"model":"item/knowledge_book/2"},
+		{"predicate":{"custom_model_data":3},"model":"item/knowledge_book/3"},
+		{"predicate":{"custom_model_data":4},"model":"item/knowledge_book/4"},
+		{"predicate":{"custom_model_data":5},"model":"item/knowledge_book/5"},
+		{"predicate":{"custom_model_data":6},"model":"item/knowledge_book/6"},
+		{"predicate":{"custom_model_data":7},"model":"item/knowledge_book/7"},
+		{"predicate":{"custom_model_data":8},"model":"item/knowledge_book/8"},
+		{"predicate":{"custom_model_data":9},"model":"item/knowledge_book/9"},
+		{"predicate":{"custom_model_data":10},"model":"item/knowledge_book/10"},
+		{"predicate":{"custom_model_data":11},"model":"item/knowledge_book/11"},
+		{"predicate":{"custom_model_data":12},"model":"item/knowledge_book/12"},
+		{"predicate":{"custom_model_data":13},"model":"item/knowledge_book/13"},
+		{"predicate":{"custom_model_data":14},"model":"item/knowledge_book/14"},
+		{"predicate":{"custom_model_data":15},"model":"item/knowledge_book/15"}
+	]
+}

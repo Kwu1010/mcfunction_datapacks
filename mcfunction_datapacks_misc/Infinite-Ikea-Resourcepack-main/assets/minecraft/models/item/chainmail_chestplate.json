@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/chainmail_chestplate"
+  },
+	"overrides":[
+		{"predicate":{"custom_model_data":1},"model":"item/chainmail_chestplate/1"},
+		{"predicate":{"custom_model_data":2},"model":"item/chainmail_chestplate/2"},
+		{"predicate":{"custom_model_data":3},"model":"item/chainmail_chestplate/3"},
+		{"predicate":{"custom_model_data":4},"model":"item/chainmail_chestplate/4"}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"custom.harrow": {
+		"category":"music",
+		"sounds": [
+			"custom/harrow"
+		]
+	},
+	"custom.sweetdreams": {
+		"category":"music",
+		"sounds": [
+			"custom/sweetdreams"
+		]
+	},
+	"custom.closed": {
+		"category":"master",
+		"sounds": [
+			"custom/closed"
+		]
+	},
+	"custom.lighton": {
+		"category":"master",
+		"sounds": [
+			"custom/lighton"
+		]
+	},
+	"custom.lightout": {
+		"category":"master",
+		"sounds": [
+			"custom/lightout"
+		]
+	},
+	"custom.warning": {
+		"category":"master",
+		"sounds": [
+			"custom/warning"
+		]
+	},
+	"custom.fnaf2menu": {
+		"category":"music",
+		"sounds": [
+			"custom/fnaf2menu"
+		]
+	}
+}

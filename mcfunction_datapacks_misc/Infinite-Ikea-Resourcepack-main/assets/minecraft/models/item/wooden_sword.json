@@ -1,0 +1,10 @@
+{
+	"parent":"item/handheld",
+	"textures":{
+		"layer0":"item/wooden_sword"
+	},
+	"overrides":[
+		{"predicate":{"custom_model_data":1},"model":"item/wooden_sword/1"},
+		{"predicate":{"custom_model_data":2},"model":"item/wooden_sword/2"}
+	]
+}

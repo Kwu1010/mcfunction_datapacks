@@ -1,0 +1,18 @@
+{
+	"parent":"item/template_spawn_egg",
+	"textures":{
+		"layer0":"item/wolf_spawn_egg"
+	},
+	"overrides":[
+		{"predicate":{"custom_model_data":1},"model":"item/wolf_spawn_egg/1"},
+		{"predicate":{"custom_model_data":2},"model":"item/wolf_spawn_egg/2"},
+		{"predicate":{"custom_model_data":3},"model":"item/wolf_spawn_egg/3"},
+		{"predicate":{"custom_model_data":4},"model":"item/wolf_spawn_egg/4"},
+		{"predicate":{"custom_model_data":5},"model":"item/wolf_spawn_egg/5"},
+		{"predicate":{"custom_model_data":6},"model":"item/wolf_spawn_egg/6"},
+		{"predicate":{"custom_model_data":7},"model":"item/wolf_spawn_egg/7"},
+		{"predicate":{"custom_model_data":8},"model":"item/wolf_spawn_egg/8"},
+		{"predicate":{"custom_model_data":9},"model":"item/wolf_spawn_egg/9"},
+		{"predicate":{"custom_model_data":10},"model":"item/wolf_spawn_egg/10"}
+	]
+}
